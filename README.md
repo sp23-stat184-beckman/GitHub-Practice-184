@@ -7,7 +7,7 @@
 - Create a new repo & initialize it with a "readme" (always)  
     - GitHub will suggest a silly name like `redesigned-garbanzo`, you can stick with that or create a new name. 
 - Locate class repo
-    - Find "mdbeckman" in GitHub and locate the "GitHub-Practice-184" class repo
+    - Find "sp23-stat184-beckman" in GitHub and locate the "GitHub-Practice-184" class repo
     - Click on "README.md" >> Edit (pencil icon in upper right)
 - **Add a row** in the table below with your information--do not delete other entries
     - follow the pattern for the vertical bar character (next to the "]" key)... use the "Matthew Beckman" row as a template
