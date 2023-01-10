@@ -12,7 +12,7 @@
 - **Add a row** in the table below with your information--do not delete other entries
     - follow the pattern for the vertical bar character (next to the "]" key)... use the "Matthew Beckman" row as a template
     - (2 pts) first & last name  
-    - (1 pt)  class day and time
+    - (1 pt)  home town
     - (2 pts) github id  
     - (2 pts) url for a GitHub Repo that YOU created... notice that my GitHub id is in the middle of the URL  
     - (1 pt) use the "Preview" button at top of the editor view to check your work and then back to "Edit file" to fix any issues  
@@ -29,9 +29,9 @@
 
 # Class GitHub Table 
 
-| Name              | Class Section     | GitHub ID            | URL for your newest GitHub repo     |  
-|:------------------|:------------------|:---------------------|:------------------------------------|  
-| Matthew Beckman   | MWF at 8am        | mdbeckman           | https://github.com/mdbeckman/ICOTS2022    |  
+| Name              | Home town           | GitHub ID            | URL for your newest GitHub repo     |  
+|:------------------|:--------------------|:---------------------|:------------------------------------|  
+| Matthew Beckman   | Edinboro, PA (USA)  | mdbeckman           | https://github.com/mdbeckman/ICOTS2022    |  
 
 
 <br>
