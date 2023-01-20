@@ -32,6 +32,7 @@
 | Name              | Home town           | GitHub ID            | URL for your newest GitHub repo     |  
 |:------------------|:--------------------|:---------------------|:------------------------------------|  
 | Matthew Beckman   | Edinboro, PA (USA)  | mdbeckman           | https://github.com/mdbeckman/ICOTS2022    |  
+| Jaime Lara        | Phoenix, AZ         | jaimefl             | https://github.com/jaimefl/github-practice-assignment  | 
 
 
 <br>
