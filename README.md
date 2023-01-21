@@ -34,6 +34,7 @@
 | Matthew Beckman   | Edinboro, PA (USA)  | mdbeckman           | https://github.com/mdbeckman/ICOTS2022    |  
 | Jaime Lara        | Phoenix, AZ         | jaimefl             | https://github.com/jaimefl/github-practice-assignment  | 
 | Drew Rubendall    | Oley, PA (USA)      | DrewRubendall       | https://github.com/DrewRubendall/Demo-Repository.git |
+| Brandon Heckers   | Haddon Township, NJ (USA)  | brandonheckers           | https://github.com/brandonheckers/literate-octo-barnacle.git    |
 
 # Integrating Git and RStudio
 
