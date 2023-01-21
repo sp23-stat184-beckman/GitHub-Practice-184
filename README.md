@@ -33,9 +33,7 @@
 |:------------------|:--------------------|:---------------------|:------------------------------------|  
 | Matthew Beckman   | Edinboro, PA (USA)  | mdbeckman           | https://github.com/mdbeckman/ICOTS2022    |  
 | Jaime Lara        | Phoenix, AZ         | jaimefl             | https://github.com/jaimefl/github-practice-assignment  | 
-
-
-<br>
+| Drew Rubendall    | Oley, PA (USA)      | DrewRubendall       | https://github.com/DrewRubendall/Demo-Repository.git |
 
 # Integrating Git and RStudio
 
