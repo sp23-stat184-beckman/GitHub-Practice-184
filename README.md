@@ -35,7 +35,9 @@
 | Jaime Lara        | Phoenix, AZ         | jaimefl             | https://github.com/jaimefl/github-practice-assignment  | 
 | Drew Rubendall    | Oley, PA (USA)      | DrewRubendall       | https://github.com/DrewRubendall/Demo-Repository.git |
 | Sarthak Singh     | Garnet Valley,PA(USA)| sarbar2002         | https://github.com/sarbar2002/stat184-pages | 
- 
+| ChutianLi (Lee)    | Wuhan China         | Leebupa              | https://github.com/leebupa/pinganxile |
+
+
 # Integrating Git and RStudio
 
 - Simplified instructions: [Data Computing eBook--Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration)  
