@@ -39,7 +39,10 @@
 | Sarthak Singh     | Garnet Valley,PA(USA)| sarbar2002          | https://github.com/sarbar2002/stat184-pages | 
 | ChutianLi (Lee)    | Wuhan China         | Leebupa             | https://github.com/leebupa/pinganxile |
 | Utkarsh Sinha     | New Delhi, India     | sinhautkarsh31      | https://github.com/sinhautkarsh31/Utkarsh-Sinha-Repo |
-
+| Sarthak Singh     | Garnet Valley,PA(USA)| sarbar2002         | https://github.com/sarbar2002/stat184-pages | 
+| ChutianLi (Lee)    | Wuhan China         | Leebupa              | https://github.com/leebupa/pinganxile |
+| Sumedh Kabe       | Bangalore, India     | Sumedh Kabe         |  https://github.com/SumedhKabe/GitHub-Practice-184
+| Parag Patel       | Reading, PA          | pzp5254            | https://github.com/pzp5254/STAT-184       |
 
 
 # Integrating Git and RStudio
