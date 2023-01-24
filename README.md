@@ -31,14 +31,21 @@
 
 | Name              | Home town           | GitHub ID            | URL for your newest GitHub repo     |  
 |:------------------|:--------------------|:---------------------|:------------------------------------|  
-| Matthew Beckman   | Edinboro, PA (USA)  | mdbeckman           | https://github.com/mdbeckman/ICOTS2022    |  
-| Jaime Lara        | Phoenix, AZ         | jaimefl             | https://github.com/jaimefl/github-practice-assignment  | 
-| Drew Rubendall    | Oley, PA (USA)      | DrewRubendall       | https://github.com/DrewRubendall/Demo-Repository.git |
-| Brandon Heckers   | Haddon Township, NJ (USA)  | brandonheckers           | https://github.com/brandonheckers/literate-octo-barnacle.git    |
+| Matthew Beckman   | Edinboro, PA (USA)  | mdbeckman            | https://github.com/mdbeckman/ICOTS2022    |  
+| Jaime Lara        | Phoenix, AZ         | jaimefl              | https://github.com/jaimefl/github-practice-assignment  | 
+| Drew Rubendall    | Oley, PA (USA)      | DrewRubendall        | https://github.com/DrewRubendall/Demo-Repository.git |
+| Brandon Heckers   | Haddon Township, NJ (USA)  | brandonheckers| https://github.com/brandonheckers/literate-octo-barnacle.git    |
 | Himaja Kakumani   | Downingtown, PA (USA)| hkakumani           | https://github.com/hkakumani/kakumani-H    |  
+| Sarthak Singh     | Garnet Valley,PA(USA)| sarbar2002          | https://github.com/sarbar2002/stat184-pages | 
+| ChutianLi (Lee)    | Wuhan China         | Leebupa             | https://github.com/leebupa/pinganxile |
+| Utkarsh Sinha     | New Delhi, India     | sinhautkarsh31      | https://github.com/sinhautkarsh31/Utkarsh-Sinha-Repo |
 | Sarthak Singh     | Garnet Valley,PA(USA)| sarbar2002         | https://github.com/sarbar2002/stat184-pages | 
 | ChutianLi (Lee)    | Wuhan China         | Leebupa              | https://github.com/leebupa/pinganxile |
 | Abdullah Nadeem   | Karachi, Pakistan    | Abdullah88888        | https://github.com/Abdullah88888/STAT-184
+| Kendall Tigue     | Scranton, PA (USA)   | kendall-tigue      | https://github.com/kendall-tigue/kendall |
+| Sumedh Kabe       | Bangalore, India     | Sumedh Kabe         |  https://github.com/SumedhKabe/GitHub-Practice-184
+| Parag Patel       | Reading, PA          | pzp5254            | https://github.com/pzp5254/STAT-184       |
+
 
 # Integrating Git and RStudio
 
