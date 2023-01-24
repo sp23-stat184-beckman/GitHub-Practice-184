@@ -38,7 +38,7 @@
 | Himaja Kakumani   | Downingtown, PA (USA)| hkakumani           | https://github.com/hkakumani/kakumani-H    |  
 | Sarthak Singh     | Garnet Valley,PA(USA)| sarbar2002         | https://github.com/sarbar2002/stat184-pages | 
 | ChutianLi (Lee)    | Wuhan China         | Leebupa              | https://github.com/leebupa/pinganxile |
-
+| Sumedh Kabe       | Bangalore, India     | Sumedh Kabe         |  https://github.com/SumedhKabe/GitHub-Practice-184
 
 # Integrating Git and RStudio
 
