@@ -47,6 +47,7 @@
 | Sumedh Kabe       | Bangalore, India     | Sumedh Kabe         |  https://github.com/SumedhKabe/GitHub-Practice-184
 | Parag Patel       | Reading, PA          | pzp5254            | https://github.com/pzp5254/STAT-184       |
 | Ankur Sinha       | Chittagong, Bangladesh| Ankur941.         | https://github.com/Ankur941/stat184_hw.git |
+| Rudhra Gopavaram  | Hyderabad, Inida     | RudhraGopavaram    | https://github.com/RudhraGopavaram/FirstRepo |
 
 # Integrating Git and RStudio
 
